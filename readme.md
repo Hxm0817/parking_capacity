@@ -19,7 +19,7 @@ All raw datasets should be placed in the `data/` directory.
 | `Street_Sweeping_Schedule.csv` | [DataSF](https://data.sfgov.org/City-Infrastructure/Street-Sweeping-Schedule/yhqp-riqs/)                                                                                              | Municipal sweeping schedules to create temporal supply masks.           |
 | `Right_of_Way_Polygons.csv` | [DataSF](https://data.sfgov.org/City-Infrastructure/Right-of-Way-Polygons/a2mg-gwmg/)                                                                                                 | Geometric data for street width and physical capacity inference.        |
 | `Parking_Management_Districts.csv` | [DataSF](https://data.sfgov.org/Transportation/Parking-Management-Districts/6vtc-mmhr/)                                                                                               | Spatial mapping to link ZIP codes with demand sensor zones.             |
-| `SFpark_ParkingSensorData_HourlyOccupancy_20112013.csv` | [Data](https://safitwebapps.blob.core.windows.net/$web/streets/sfpark/SFpark_ParkingSensorData_HourlyOccupancy_20112013.csv)\n[SFPark](https://www.sfmta.com/getting-around/drive-park/demand-responsive-pricing/sfpark-evaluation)                                                        | Hourly occupancy rates used for demand profiling. |
+| `SFpark_ParkingSensorData_HourlyOccupancy_20112013.csv` | [SFPark](https://www.sfmta.com/getting-around/drive-park/demand-responsive-pricing/sfpark-evaluation)([Download](https://safitwebapps.blob.core.windows.net/$web/streets/sfpark/SFpark_ParkingSensorData_HourlyOccupancy_20112013.csv))        | Hourly occupancy rates used for demand profiling. |
 
 ---
 
